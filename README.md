@@ -16,6 +16,9 @@ pip install "unstructured[local-inference]"
 brew install poppler
 ```
 
+### Windows
+
+Visit this site : https://towardsdatascience.com/poppler-on-windows-179af0e50150
 
 ## Config
 
