@@ -2,7 +2,7 @@
 
 Leverage this repo to help demonstrate value to your customers as well as share starter code for them to use.
 
-##Install 
+## Install 
 
 ```
 pip install -r requirements.txt
@@ -17,6 +17,6 @@ brew install poppler
 ```
 
 
-##Config
+## Config
 
 You can also leverage your own data set of pdfs by adding them in the /demos/data folder.
