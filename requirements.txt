@@ -3,3 +3,4 @@ openai
 gradio
 chromadb
 unstructured-inference
+tiktoken
